@@ -22,12 +22,19 @@ author:
     name: Joe Abley
     org: Cloudflare
     city: Amsterdam
-    country: NL
+    country: Netherlands
     email: jabley@cloudflare.com
   -
     ins: W. Kumari
     name: Warren Kumari
-    org: Google
+    org: Google, Inc.
+    street: 1600 Amphitheatre Parkway
+    city: Mountain View
+    state: CA
+    code: 94043
+    country: United States of America
+    phone: +1 571 748 4373
+    email: warren@kumari.net
 
 --- abstract
 
